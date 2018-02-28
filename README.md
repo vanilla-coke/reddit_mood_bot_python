@@ -1,5 +1,5 @@
 # reddit_mood_bot_python
-This is an example of a reddit bot that will analyze the overall mood of the thread. Analyses is performed via IBM tone-analyzer API
+This is a working framework for a reddit bot that will analyze the overall mood of the thread. Analyses is performed via IBM tone-analyzer API
 
 The overall goal of this reddit bot is to determine the moods of a thread. In particular, this bot examines: Emotional Tone, Language Tone, and Social Tone. It responds with the names of the tones for each tone category, as well as the score for that tone. 
 
